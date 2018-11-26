@@ -1,0 +1,2 @@
+como compilar:
+gcc -fopenmp QuickSortParalelo.c Vector.c -o paralelo.out -lm
